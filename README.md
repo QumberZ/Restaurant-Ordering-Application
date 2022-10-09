@@ -6,7 +6,7 @@
   <img width="587" alt="image" src="https://user-images.githubusercontent.com/82357065/194375607-442c029d-1a69-4357-bb41-5939ed3f0d28.png">
   
     If user clicks to Sign Up, they are taken to the register page
-    
+    [![Screen-Shot-2022-10-06-at-1-10-34-PM.png](https://i.postimg.cc/Nj6c2dWG/Screen-Shot-2022-10-06-at-1-10-34-PM.png)](https://postimg.cc/fVRF6fz1)
    
 <img width="587" alt="image" src="[![Screen-Shot-2022-10-06-at-1-10-34-PM.png](https://i.postimg.cc/Nj6c2dWG/Screen-Shot-2022-10-06-at-1-10-34-PM.png)](https://postimg.cc/fVRF6fz1)">
   
