@@ -12,6 +12,7 @@
    <img width="300" alt="image" src="https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png">
  
  If the user just wants to view the menu as a guest, they just click the View Menu button
+   <img width="300" alt="image" src="[https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png](https://i.postimg.cc/nrmD484w/Screen-Shot-2022-10-09-at-1-08-36-AM.png)">
  <a href='https://postimg.cc/4HJyGSFz' target='_blank'><img src='https://i.postimg.cc/nrmD484w/Screen-Shot-2022-10-09-at-1-08-36-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-08-36-AM'/></a>
  
  The user can add things to the cart and the total price with tax will be added up depending on the number they fill in for each item. They can also qualify for a 10% discount and it will be deducted from the order total.
