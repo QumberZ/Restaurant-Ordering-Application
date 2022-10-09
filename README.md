@@ -17,10 +17,10 @@
  The user can add things to the cart and the total price with tax will be added up depending on the number they fill in for each item. They can also qualify for a 10% discount and it will be deducted from the order total.
  
  If the user wants to checkout as a guest, they can just enter the card information and confirm the payment
-<a href='https://postimg.cc/vch94WrY' target='_blank'><img src='https://i.postimg.cc/SxFGtdjM/Screen-Shot-2022-10-09-at-1-12-32-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-12-32-AM'/></a><br /><a href='https://banks-nearme.com/td-bank-near-me'></a><br />
+<a href='https://postimg.cc/vch94WrY' target='_blank'><img src='https://i.postimg.cc/SxFGtdjM/Screen-Shot-2022-10-09-at-1-12-32-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-12-32-AM'/></a><br /></a><br />
 
 Once the order is successfully placed, the user gets a confirmation order
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4dYgFsFw/Screen-Shot-2022-10-09-at-1-19-24-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-19-24-AM'/></a><br /><a href='https://banks-nearme.com/barclays-bank-near-me'>barclays address</a><br />
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4dYgFsFw/Screen-Shot-2022-10-09-at-1-19-24-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-19-24-AM'/></a><br /></a><br />
 
 For test cases we used implemented JOptionPane.showMessageDialog as an exception case for the user interface.
 For example, when the user is creating their account and doesn’t enter a valid password which consists of at least 8 characters, numbers, and special character, they receive a pop up message and cant create the account till the information is valid. The same is the case for the the login having invalid matched information and the payment having invalid lengths of card digits.
