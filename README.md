@@ -9,6 +9,7 @@
 <img width="587" alt="image" src="https://i.postimg.cc/Nj6c2dWG/Screen-Shot-2022-10-06-at-1-10-34-PM.png">
 
    If user clicks to Login, they are taken to the Login page
+   <img width="587" alt="image" src="[https://i.postimg.cc/Nj6c2dWG/Screen-Shot-2022-10-06-at-1-10-34-PM.png](https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png)">
 img width="587" alt="image" src="https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png">
  
  
