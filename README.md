@@ -3,14 +3,13 @@
      The Restaurant Ordering System Popeyes based is an application that consists of limited components but unique and functioning ones. This application was initially intended to act as a delivery service like already implemented ones such as Ubereats, DoorDash, Grubhub, Slice, and etc. Since that would take a lot of time and learning experience, we decided to implement an ordering service for a certain Restaurant with the time given. We decided to use Popeyes to mimic. So how does this app work? Right off the bat, once the user opens the application up, they are welcomed and can click from a list of buttons. Each button takes you to a new page. The first button “Sign in” takes you to the register page, the Login button takes you to the Login page, and the View Menu takes you to the menu page. The user can view the menu and checkout as a guest, otherwise they can create an account for later purposes and other features. Creating an account allows us to retrieve and save the customers information to our database so the user can just simply login next time they want to order.
      
      Welcome User Menu:
-  <img width="587" alt="image" src="https://user-images.githubusercontent.com/82357065/194375607-442c029d-1a69-4357-bb41-5939ed3f0d28.png">
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/82357065/194375607-442c029d-1a69-4357-bb41-5939ed3f0d28.png">
   
     If user clicks to Sign Up, they are taken to the register page
-<img width="587" alt="image" src="https://i.postimg.cc/Nj6c2dWG/Screen-Shot-2022-10-06-at-1-10-34-PM.png">
+<img width="350" alt="image" src="https://i.postimg.cc/Nj6c2dWG/Screen-Shot-2022-10-06-at-1-10-34-PM.png">
 
    If user clicks to Login, they are taken to the Login page
-   <img width="587" alt="image" src="https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png">
-img width="587" alt="image" src="https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png">
+   <img width="300" alt="image" src="https://i.postimg.cc/66fbZDQm/Screen-Shot-2022-10-06-at-2-54-02-PM.png">
  
  
  
