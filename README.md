@@ -19,6 +19,13 @@
  If the user wants to checkout as a guest, they can just enter the card information and confirm the payment
 <a href='https://postimg.cc/vch94WrY' target='_blank'><img src='https://i.postimg.cc/SxFGtdjM/Screen-Shot-2022-10-09-at-1-12-32-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-12-32-AM'/></a><br /><a href='https://banks-nearme.com/td-bank-near-me'></a><br />
 
+Once the order is successfully placed, the user gets a confirmation order
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4dYgFsFw/Screen-Shot-2022-10-09-at-1-19-24-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-19-24-AM'/></a><br /><a href='https://banks-nearme.com/barclays-bank-near-me'>barclays address</a><br />
+
+For test cases we used implemented JOptionPane.showMessageDialog as an exception case for the user interface.
+For example, when the user is creating their account and doesn’t enter a valid password which consists of at least 8 characters, numbers, and special character, they receive a pop up message and cant create the account till the information is valid. The same is the case for the the login having invalid matched information and the payment having invalid lengths of card digits.
+<a href='https://postimg.cc/bGmpbw62' target='_blank'><img src='https://i.postimg.cc/G2C2WBGz/Screen-Shot-2022-10-09-at-1-17-21-AM.png' border='0' alt='Screen-Shot-2022-10-09-at-1-17-21-AM'/></a>
+
   There are also Java exceptional messages that tell the user if there is anything wrong with the information given. For example, it would notify the user if the password is of correct length and has the special requirements for being valid. Once the user successfully creates the account, they are led to the Login page where they enter their username, phone number, and password as they used to sign up. The user has to correctly enter their information to login and if they don't, they are notified that their information doesn’t match up with the information they provided in our database. Once the user successfully logs in, they are taken to the Popeyes Menu where they can finally choose the items they want and order. The user can add as many items as they want and by hitting enter on the keyboard, the total is automatically added up. The user can get items in bulk or get single items. Users also have the option to qualify for a discount and once they do, they get up to 10% off from their total. Once the user is done adding items to the cart, they can go checkout using the “Checkout” button next to the order total. Once they do that, they are taken to the Payment page where they pay for their order. The user enters in their credit/debit card information and they are also notified if their card information is invalid. This also utilizes databases as the card info is used to make the payments. Once the order is successfully placed, the user gets a confirmation receipt with the order number and a “Thank you” message. Now of course, this is just a simulation of what an actual Popeyes app would do. It has the basic functions of the app and it needs a lot of implementation to even be a worthy simulation of an ordering system application. 
      
      <img width="603" alt="image" src="https://user-images.githubusercontent.com/82357065/170841179-73eb596b-fcd0-4064-9469-9402c6b8e98b.png">
@@ -34,10 +41,6 @@ Food Ordering App’s features
 ●	Items in bulk and Customer Discount
 ●	Payment authentication
 ●	Order Confirmation
-
-
-  
- 
 
 There are a list of features we want to implement for the next steps down the line.
 These features include
